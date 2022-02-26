@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+https://simpleicons.org/
 
 -->
 
@@ -19,6 +20,7 @@ Here are some ideas to get you started:
 - **Language** </br>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-2F2625?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>&nbsp;
 - **Language** (알고리즘 문제해결용) </br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>&nbsp;
